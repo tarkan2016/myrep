@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<Values>
+  <CompanyName>اسپییر</CompanyName>
+  <LatinCompanyName>Espeer</LatinCompanyName>
+  <Address>آرین</Address>
+  <ZipCode>0441</ZipCode>
+  <Tel1>2250494</Tel1>
+  <Tel2>2250493</Tel2>
+  <FishPrinter>Send To OneNote 2007</FishPrinter>
+  <BarCodePrinter>Brother QL-570</BarCodePrinter>
+  <DotMatrixPrinter />
+  <A4Printer>Fax</A4Printer>
+  <BackGroundImage />
+  <BackupPath>d:\bkp\</BackupPath>
+  <LogoImage>Logo.jpg</LogoImage>
+  <NameLogoImage>NameLogo.jpg</NameLogoImage>
+  <isAutoRecord>True</isAutoRecord>
+  <DefaultFactorFPage>Fish</DefaultFactorFPage>
+  <Server>MORTEZA-PC\SERVER2014</Server>
+  <dbName>SMToli</dbName>
+  <dbUser>sa</dbUser>
+  <dbPassword>2550</dbPassword>
+  <ColCodeBed>101</ColCodeBed>
+  <ColCodeBes>400</ColCodeBes>
+  <ColCodeSell>700</ColCodeSell>
+  <MoenCodeSell>700001</MoenCodeSell>
+  <ColCodeBSell>710</ColCodeBSell>
+  <MoenCodeBsell>710001</MoenCodeBsell>
+  <ColCodeKh>600</ColCodeKh>
+  <MoenCodeKH>600001</MoenCodeKH>
+  <ColCodeBKH>610</ColCodeBKH>
+  <MoenCodeBKH>610001</MoenCodeBKH>
+  <ColCodeSandoq>110</ColCodeSandoq>
+  <ColCodeBank>115</ColCodeBank>
+  <coLCodeHazine>800</coLCodeHazine>
+  <MoenCodeHazine>800001</MoenCodeHazine>
+  <coLCodeDaramad>720</coLCodeDaramad>
+  <MoenCodeDaramad>720001</MoenCodeDaramad>
+  <ColCodeAsnadDaryafti>120</ColCodeAsnadDaryafti>
+  <MoenCodeAsnadDaryafti>120001</MoenCodeAsnadDaryafti>
+  <coLCodeAsnadPardakhti>410</coLCodeAsnadPardakhti>
+  <MoenCodeAsnadPardakhti>410001</MoenCodeAsnadPardakhti>
+  <MoenCodeBargashtiNS>120002</MoenCodeBargashtiNS>
+  <coLCodeMal>420</coLCodeMal>
+  <moenCodeMal>420001</moenCodeMal>
+  <coLCodeAv>430</coLCodeAv>
+  <MoenCodeAv>430001</MoenCodeAv>
+  <coLCodeKHMal>620</coLCodeKHMal>
+  <moenCodeKHMal>620001</moenCodeKHMal>
+  <coLCodeKHAv>630</coLCodeKHAv>
+  <MoenCodeKHAv>630001</MoenCodeKHAv>
+  <TakhfifF>700002</TakhfifF>
+  <TakhfifBF>710002</TakhfifBF>
+  <TakhfifK>600002</TakhfifK>
+  <TakhfifBKH>610002</TakhfifBKH>
+  <AutoSanad>True</AutoSanad>
+  <codeMotafareqe>0100001</codeMotafareqe>
+  <codeCityMotafareqe>101001</codeCityMotafareqe>
+  <StartTime>07:00:00</StartTime>
+  <EndTime>23:00:00</EndTime>
+  <DomainName>.</DomainName>
+  <DomaniUserName>.</DomaniUserName>
+  <DomainPass>.</DomainPass>
+  <FactorfMessage />
+  <ChangePrice />
+  <Checkr />
+  <CheckB />
+  <CheckBeforDater />
+  <MandeMessage />
+  <VisitorSell />
+  <PriceC />
+  <Priceb />
+  <Modirpass>1</Modirpass>
+  <DMAl>0</DMAl>
+  <DAv>0</DAv>
+  <TafzilyCode />
+  <PriceHad>0</PriceHad>
+  <ChekUser>False</ChekUser>
+  <Fcode>False</Fcode>
+  <Gqati>True</Gqati>
+  <CodeMaliyatKharid>0</CodeMaliyatKharid>
+  <codehazineKharid>0</codehazineKharid>
+  <CodeKAuto>True</CodeKAuto>
+</Values>

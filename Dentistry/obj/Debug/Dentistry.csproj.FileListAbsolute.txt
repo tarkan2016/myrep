@@ -1,0 +1,177 @@
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\bin\Debug\Dentistry.exe
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\bin\Debug\Dentistry.pdb
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.csprojResolveAssemblyReference.cache
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.Form1.resources
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.FrmTarifMohtari.resources
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.Properties.Resources.resources
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.csproj.GenerateResource.Cache
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.exe.licenses
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.exe
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.pdb
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.frmLogin.resources
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.FrmTarifBime.resources
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.FrmCrack.resources
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\obj\Debug\Dentistry.ValidateForm.resources
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\bin\Debug\GenerateBarCodeWithCsharp.exe
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\bin\Debug\hm_farsicalendar.dll
+C:\Users\morteza\Documents\Visual Studio 2013\Projects\Dentistry\Dentistry\bin\Debug\Persia.dll
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.exe
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.pdb
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.csprojResolveAssemblyReference.cache
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.FrmCrack.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.frmLogin.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.frmMain.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.frmPanel.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.FrmTarifBime.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.FrmTarifMohtari.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.Properties.Resources.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.ValidateForm.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.csproj.GenerateResource.Cache
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.exe.licenses
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.CustomAppointmentForm.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.CustomAppointmentForm.de.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.CustomAppointmentForm.es.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.CustomAppointmentForm.ja.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.CustomAppointmentForm.ru.resources
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\Dentistry.exe
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\Dentistry.pdb
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\Dentistry.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\Dentistry.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\Dentistry.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\Dentistry.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\GenerateBarCodeWithCsharp.exe
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\hm_farsicalendar.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\Persia.dll
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.OutlookAppointmentForm.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.OutlookAppointmentForm.de.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.OutlookAppointmentForm.es.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.OutlookAppointmentForm.ja.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.OutlookAppointmentForm.ru.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\de\Dentistry.resources.dll
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\es\Dentistry.resources.dll
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\ja\Dentistry.resources.dll
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\ru\Dentistry.resources.dll
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.FrmParvandeM.resources
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevComponents.DotNetBar2.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.Data.v16.1.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.ExpressApp.Scheduler.v16.1.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.ExpressApp.Scheduler.Win.v16.1.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.Xpf.Scheduler.v16.1.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraScheduler.v16.1.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraScheduler.v16.1.Extensions.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.Extensions.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\Janus.Windows.Common.v4.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\Janus.Windows.Ribbon.v4.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\Janus.Windows.UI.v4.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\Microsoft.CSharp.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.Configuration.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.Data.DataSetExtensions.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.Data.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.Data.Linq.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.Deployment.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.Drawing.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.Management.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.Runtime.Remoting.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.Windows.Forms.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.Xml.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\System.Xml.Linq.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevComponents.DotNetBar2.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.Data.v16.1.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.ExpressApp.Scheduler.v16.1.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.ExpressApp.Scheduler.Win.v16.1.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.Xpf.Scheduler.v16.1.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraScheduler.v16.1.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraScheduler.v16.1.Extensions.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.Extensions.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\Janus.Windows.Common.v4.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\Janus.Windows.Ribbon.v4.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\Janus.Windows.UI.v4.xml
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.ExpressApp.Scheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.ExpressApp.Scheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.ExpressApp.Scheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.ExpressApp.Scheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.ExpressApp.Scheduler.Win.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.ExpressApp.Scheduler.Win.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.ExpressApp.Scheduler.Win.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.ExpressApp.Scheduler.Win.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.Xpf.Scheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.Xpf.Scheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.Xpf.Scheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.Xpf.Scheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.XtraScheduler.v16.1.Extensions.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.XtraScheduler.v16.1.Extensions.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.Extensions.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.Extensions.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\de\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\es\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+D:\MySoucre\Dentistry\Dentistry\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.frmTarifAmaliay.resources
+D:\MySoucre\Dentistry\Dentistry\obj\Debug\Dentistry.frmTarifBank.resources
